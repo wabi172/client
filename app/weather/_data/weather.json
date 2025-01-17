@@ -1,0 +1,38 @@
+[
+  {
+    "icon": "wicon1.png",
+    "week": "TUE",
+    "date": "May, 26th",
+    "tem": "+18...+27°C"
+  },
+  {
+    "icon": "wicon2.png",
+    "week": "WED",
+    "date": "May, 27th",
+    "tem": "+19...+25°C"
+  },
+  {
+    "icon": "wicon3.png",
+    "week": "THU",
+    "date": "May, 28th",
+    "tem": "+17...+22°C"
+  },
+  {
+    "icon": "wicon4.png",
+    "week": "FRI",
+    "date": "May, 29th",
+    "tem": "+19...+28°C"
+  },
+  {
+    "icon": "wicon5.png",
+    "week": "SAI",
+    "date": "May, 30th",
+    "tem": "+18...+25°C"
+  },
+  {
+    "icon": "wicon1.png",
+    "week": "SUN",
+    "date": "May, 31th",
+    "tem": "+19...+29°C"
+  }
+]
